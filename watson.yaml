@@ -1,0 +1,4 @@
+train: ./watson_logos/images/
+val: ./watson_logos/images/
+nc: 2
+names: ["watson","watson_others"]
